@@ -7,6 +7,10 @@ This project is a To-Do application built with Vite, React, and TypeScript, feat
 - **React Toastify Notifications:** Toast notifications are integrated to provide real-time feedback on user actions, such as adding, updating, or deleting tasks.  
 - **Responsive UI:** The interface is fully responsive, ensuring a smooth experience across different devices (desktops, tablets, and mobile).  
 
+## Video
+
+https://github.com/user-attachments/assets/5fad73fb-365e-419b-8dd3-67e9f3206c9f
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
