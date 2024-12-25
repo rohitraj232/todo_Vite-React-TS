@@ -4,8 +4,8 @@ This project is a To-Do application built with Vite, React, and TypeScript, feat
 
 **Edit Tasks:** Tasks can be updated with ease, allowing users to modify the task name or details.  
 
-**Delete Tasks:** Users can delete tasks that are no longer needed.
-**Mark Tasks as Done:** The app includes the ability to mark tasks as completed.
+**Delete Tasks:** Users can delete tasks that are no longer needed.  
+**Mark Tasks as Done:** The app includes the ability to mark tasks as completed.  
 **React Toastify Notifications:** Toast notifications are integrated to provide real-time feedback on user actions, such as adding, updating, or deleting tasks.
 **Responsive UI:** The interface is fully responsive, ensuring a smooth experience across different devices (desktops, tablets, and mobile).
 
